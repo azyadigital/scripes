@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'adelia';
+   font-display: swap;
+   src: url('adelia/font.ttf');
+}
+@font-face {
+   font-family: 'GothamOffice-Bold';
+   font-display: swap;
+   src: url('GothamOffice-Bold/font.ttf');
+}
